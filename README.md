@@ -8,6 +8,6 @@ This project automates the mass installation of A1 digital certificates on Windo
 Este projeto automatiza a instalação em massa de certificados digitais A1 em máquinas Windows. Ele gerencia a importação de certificados em armazenamentos de usuários ou máquinas, com suporte para opções como exportável/não exportável. Ideal para implantações em massa, o sistema valida senhas por meio de um arquivo .txt e instala os certificados sem intervenção manual. Ele também gera logs automaticamente na pasta de captura de certificados, permitindo que o processo ocorra em segundo plano enquanto o usuário continua trabalhando na máquina, garantindo eficiência e facilidade de gerenciamento.
 
 Preview: <br>
-![Captura001](https://github.com/user-attachments/assets/23a39fdc-5edf-4b2c-90d2-c1718ce9833c)
-![Captura002](https://github.com/user-attachments/assets/aa10c162-0d9b-4d88-a75e-3726e710fec1)
-![Captura003](https://github.com/user-attachments/assets/4244f67c-2108-4815-9e9f-baa0476aaa2e)
+![001Edit](https://github.com/user-attachments/assets/3502b08e-d51e-4510-afb5-b908203f6b8f)
+![002Edit](https://github.com/user-attachments/assets/af04af6c-8661-401b-905f-bd9bb96dff52)
+![003](https://github.com/user-attachments/assets/ac7ac5ce-3429-4185-be20-dd88b25aac04)
